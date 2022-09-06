@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TheInventor147
+- 👋 Hi, I’m @Galgathor
 - 👀 I’m interested in big butts
 - 🌱 I’m currently learning pwogwamming
 - 💞️ I’m looking to collaborate on vibeo gane
