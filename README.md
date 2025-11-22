@@ -1,13 +1,43 @@
-- 👋 Hi, I’m @Galgathor
-- 👀 I’m interested in big butts
-- 🌱 I’m currently learning pwogwamming
-- 💞️ I’m looking to collaborate on vibeo gane
-- 📫 How to reach me? Done't! You cannot't reach me. It's is impoble.
+# 👋 Hi, I'm @Galgathor
 
-<!---
-TheInventor147/TheInventor147 is a ✨ TheInventor147/TheInventor147 ✨ repository because its `TheInventor147/TheInventor147` (this file) appears on your GitHub TheInventor147/TheInventor147.
-You can click the TheInventor147/TheInventor147 link to take a look at your changes.
---->
+I'm a Unity C# developer, backend developer, and Linux-focused system administrator with a passion for building mechanics, systems, and intelligent tools. Although I currently work as an HVAC technician, I’m transitioning into the IT field where my long-term interests truly are. I’ve been learning programming and systems administration since I was 15, starting with JavaScript—but I quickly discovered that what I *really* enjoy is creating the systems that make ideas come alive.
 
+---
 
-01100001 01001000 01010010 00110000 01100011 01001000 01001101 00110110 01001100 01111001 00111001 00110011 01100100 00110011 01100011 01110101 01100101 01010111 00111001 00110001 01100100 01001000 01010110 01101001 01011010 01010011 00110101 01101010 01100010 00110010 00110000 01110110 01100100 00110010 01000110 00110000 01011001 00110010 01100111 00101111 01100100 01101010 00110001 00110010 01001110 01000100 01100100 00110110 01010101 00110000 00110101 01100001 01011001 00110011 01101100 01010001 01010101 01010001
+## 🧰 Skills & Experience
+
+### **Software Development**
+- Unity C# game development and gameplay systems  
+- .NET backend development  
+- Python scripting  
+- Usage of AI tools to expand capabilities and speed up development  
+- Deployment and maintenance of self-made projects  
+
+### **Infrastructure & Systems**
+- Linux system administration (a strong personal interest)  
+- Self-hosting environments and service management  
+- Network security fundamentals  
+- Nginx configuration  
+- Cloudflare Tunnel for secure reverse-proxy setups  
+
+---
+
+## 🔍 What I'm Passionate About
+
+- **Learning new technologies** and understanding systems from the ground up  
+- **Building games and mechanics**, especially systems-driven or AI-driven experiences  
+- **Automation, scripting, and infrastructure**  
+- **Finding more sustainable and long-term career paths in IT**  
+- Combining AI with traditional development to build more capable systems  
+
+---
+
+## 🌐 Projects
+
+### **AI Dungeon Master**
+My largest and proudest project, hosted on **galgathor.com**.  
+It’s a D&D-inspired system that uses ChatGPT as a dynamic dungeon master while storing persistent game state, items, characters, and combat logic in a database.  
+It supports multiple PCs, NPCs, and automated combat resolution.
+
+🔗 Live Project: https://galgathor.com  
+🔗 Portfolio: https://galgathor.com/about
