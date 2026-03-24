@@ -25,7 +25,7 @@ I architect and manage a production-mimicking homelab environment to master ente
 * **Compute:** High-density **Proxmox VE** cluster (Primary node: 56 Cores / 128GB RAM).
 * **Networking:** **OPNsense** firewall with 4 isolated VLANs (Clients, Servers, IoT, Guest) routed through a **Dell Layer 3** managed switch.
 * **Identity & Access:** **Windows Server AD** domain controller with **Ubuntu** nodes integrated via LDAP/SSSD for centralized authentication.
-* **Security & Connectivity:** * **Fail2ban** with strict SSH jail policies.
+* **Security & Connectivity:** **Fail2ban** with strict SSH jail policies.
     * **SSH Public Key Authentication** (synced via GitHub).
     * **Cloudflare Tunnels** & **Nginx Proxy Manager** for secure service exposure.
     * **Tailscale** mesh VPN for secure remote administration.
