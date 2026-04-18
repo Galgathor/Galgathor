@@ -35,7 +35,7 @@ I architect and manage a production-mimicking homelab environment to master ente
 
 ### 🚀 Featured Projects
 
-* **[System Bootstrap](https://github.com/Galgathor/server-config):** A public repository containing a one-liner Bash script to automate the deployment of my custom Starship/ble.sh shell environment across new Ubuntu nodes.
+* **[server-config](https://github.com/Galgathor/server-config):** A public repository containing a one-liner Bash script to automate the deployment of my custom Starship/ble.sh shell environment across new Ubuntu nodes.
 * **AI-Driven RPG Backend:** A complex inventory and quest management engine built with **C# .NET**, managed via a self-hosted **Gitea** instance.
 * **Infrastructure Monitoring:** External VPS deployment using **Uptime Kuma** with Discord webhook integration for real-time status alerts.
 
