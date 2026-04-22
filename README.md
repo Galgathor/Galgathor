@@ -1,6 +1,6 @@
 # Hi, I'm Isaiah Peterson 👋
 
-**Systems & Infrastructure Enthusiast | HVAC Professional | Transitioning to DevOps/SysAdmin**
+**Systems & Infrastructure Enthusiast | HVAC Professional | Transitioning to IT**
 
 I am a technical problem-solver with 7 years of experience troubleshooting complex physical systems, currently pivoting into Systems Engineering and Infrastructure. I treat my digital environments with the same rigor as mission-critical mechanical systems—prioritizing uptime, security, and scalability.
 
