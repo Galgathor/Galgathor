@@ -55,7 +55,3 @@ I architect and manage a production-mimicking homelab environment to master ente
 * **Portfolio:** [https://galgathor.com]
 * **Email:** [isaiah.peterson99@gmail.com]
 * **Email:** [isaiah@galgathor.com] (Self Hosted)
-
----
-
-> "I like troubleshooting complex systems—I just prefer the ones that don't involve attics or crawl spaces."
